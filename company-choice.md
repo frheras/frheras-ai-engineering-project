@@ -14,5 +14,5 @@ También me ha llamado mucho la atención la logística inversa, donde las devol
 ## Identifica un reto de automatización o IA del milestone que mas ganas tengas de construir
 Automatización y detección de estados de paquetes de logística inversa
 
-## Mi idea de agente de IA
+## My AI Agent Idea
 El agente analizaría la información de cada devolución, incluyendo el motivo, el producto, el cliente y su estado, y la combinaría con el histórico para detectar patrones y posibles causas de las devoluciones. A partir de ese análisis podría decidir qué proceso seguir (reacondicionar, devolver al stock o desechar) y desencadenar automáticamente las acciones necesarias. Además, generaría información para detectar qué productos o clientes presentan más devoluciones y ayudar a TrackFlow a reducirlas en el futuro, no solo a gestionarlas cuando ya se han producido.
